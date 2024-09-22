@@ -1,0 +1,9 @@
+// 2+2 program
+
+chugjug 0 2
+chugjug 1 2
+
+paura 0 1 2
+spit 2
+
+grounded
