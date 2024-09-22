@@ -1,0 +1,6 @@
+{
+    "instruction_size": 64,
+    "register_size": 8,
+    "memory_size": 8,
+    "outer_size": 64
+}
