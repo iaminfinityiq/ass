@@ -24,7 +24,7 @@ def EOF_detection(address, instructions, INSTRUCTION_SIZE):
 
 # Main program
 file = input("Which file do you want to run? ")
-with open(f"{file}.as") as file:
+with open(f"{file}.ass") as file:
     instructions = file.read().split("\n")
 
 with open("program-settings.json") as settings:
